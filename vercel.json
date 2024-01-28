@@ -1,7 +1,8 @@
 {
   "version": 2,
   "builds": [
-    { "src": "public/**/*", "use": "@now/static" }
+    { "src": "public/**/*", "use": "@now/static" },
+    { "src": "01152 Happy Birthday.svg", "use": "@now/static" }
   ],
   "routes": [{ "handle": "filesystem" }]
 }
