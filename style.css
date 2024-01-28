@@ -70,7 +70,7 @@ img.center {
 }
   
 .one {
-    font-size: 2.5rem;
+    font-size: 2.0rem;
 }
 .two {
     font-size: 1.5rem;
@@ -152,7 +152,7 @@ img.center {
 h5 {
     font-weight: lighter;
     font-size: 1.1rem;
-    margin: 0px 180px 0;
+    margin: 10px 0 0;
 }
 
 /* Remove `display: none` to use Refresh button and Count-up timer */
